@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "360170589033",
+    "project_id": "gamingconsole-5b196",
+    "storage_bucket": "gamingconsole-5b196.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:360170589033:android:8d2891369e93aa63ff0bf8",
+        "android_client_info": {
+          "package_name": "com.testproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFbpmvBBQ7TgvTDonUs3xOZUnJoCGMZvg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
